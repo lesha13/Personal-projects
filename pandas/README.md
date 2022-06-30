@@ -1,2 +1,2 @@
-# Personal-projects
-trying to do some off-work
+# Pandas
+dataset - https://www.kaggle.com/datasets/datasnaek/youtube-new?resource=download
