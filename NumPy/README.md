@@ -1,2 +1,2 @@
-# Personal-projects
-trying to do some off-work
+# NumPy
+Exercises: https://www.w3resource.com/python-exercises/numpy/index.php
